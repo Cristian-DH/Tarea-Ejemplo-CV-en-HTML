@@ -6,7 +6,6 @@ Tarea donde usamos las etiquetas básicas de HTML
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cristian Díaz</title>
 </head>
 
 <body> <!-- // Contenido visible de la página -->
